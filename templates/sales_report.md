@@ -1,7 +1,14 @@
 ## 営業報告
-***
-<br />
-<img src="../imgs/logo.png" width="480px">
-<br /><br /><br />
+![](../imgs/icons/sales_report_icon.png)
+
+> 商談の内容を簡単に記録できます。
+
+[トップに戻る](../index.md)
+
+
+### 画面イメージ
+
+### 入力項目
+- 日付
 
 [トップに戻る](../index.md)

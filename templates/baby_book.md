@@ -1,7 +1,11 @@
 ## 育児日記
-***
-<br />
-<img src="../imgs/logo.png" width="480px">
-<br /><br /><br />
+![](../imgs/icons/baby_book_icon.png)
+
+> お子様の日々の成長記録を手軽に記録することができます。
 
 [トップに戻る](../index.md)
+
+### 画面イメージ
+
+### 入力項目
+- 日付

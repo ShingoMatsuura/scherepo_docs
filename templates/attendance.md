@@ -1,7 +1,11 @@
 ## 出退勤
-***
-<br />
-<img src="../imgs/logo.png" width="480px">
-<br /><br /><br />
+![](../imgs/icons/attendance_icon.png)
+
+> 出退勤の日時を記録します。現場の出退勤などにご利用いただけます。
 
 [トップに戻る](../index.md)
+
+### 画面イメージ
+
+### 入力項目
+- 日付
