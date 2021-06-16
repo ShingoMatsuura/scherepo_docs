@@ -5,7 +5,7 @@
 
 > 一覧から記録を行うテンプレートを選択します。
 
-<img src="imgs/templates.jpeg" width="480px">
+<img src="imgs/templates.png" width="480px">
 
 1. [営業報告](templates/sales_report.md)：営業の商談内容を簡単に記録できます。
 
