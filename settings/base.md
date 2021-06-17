@@ -17,5 +17,13 @@
 1. [`ヘッダー画像`](header_image.md)：ヘッダーの背景に画像を設定する場合、一覧から画像を選択します。
 1. [`パスコード画面`](passcode.md)：スケジュールレポアプリ起動時にパスコードによりロックする場合、設定をONにします。
 
+### 予定の背景色を有効：ON
+
+![](../imgs/monthly_calendar_date1.png)
+
+### 予定の背景色を有効：OFF
+
+![](../imgs/monthly_calendar_date2.png)
+
 
 [その他に戻る](../other.md)
