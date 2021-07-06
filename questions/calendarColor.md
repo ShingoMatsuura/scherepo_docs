@@ -12,6 +12,9 @@
 1. カラー項目から任意の色を選択し、「完了」をタップします。
 
 　<img src="../imgs/questions/calendarColor1.png" width="480px"> 
+
 　<img src="../imgs/questions/calendarColor2.png" width="480px">
+
 　<img src="../imgs/questions/calendarColor3.png" width="480px">
+
 　<img src="../imgs/questions/calendarColor4.png" width="480px">
