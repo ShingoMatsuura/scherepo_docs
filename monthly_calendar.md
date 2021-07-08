@@ -22,9 +22,16 @@
     - `写真タブ`：カレンダーで選択された日付の写真が表示されます。
 1. `レポート作成ボタン`：ボタン押下で選択された予定をもとにレポートを作成します。
 1. `ポップアップ`：アプリ起動時にタブ切り替えの説明が表示されます。
+1. `日付長押し`：日付を長押しすることで、一週間カレンダー形式の画面に切り替わります。
 
 ### 画面イメージ（バーティカルカレンダー）
 
 <img src="./imgs/screens/monthly_calendar_screen_vertical.png" width="320px" />
+
+
+### 画面イメージ（1週間カレンダー）
+
+<img src="./imgs/screens/monthly_oneweek_calendar_screen.png" width="320px" />
+
 
 [トップに戻る](./index.md)
